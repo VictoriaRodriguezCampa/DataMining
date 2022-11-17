@@ -1,2 +1,4 @@
 # DataMining
-https://hub.gke2.mybinder.org/user/victoriarodrigu-ampa-datamining-7mvrj8sj/lab
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VictoriaRodriguezCampa/DataMining/HEAD)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/VictoriaRodriguezCampa/DataMining/HEAD
